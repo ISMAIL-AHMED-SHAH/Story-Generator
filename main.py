@@ -28,7 +28,7 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-st.markdown("<h1 class='title'>🪄 Interactive Story Creator</h1>", unsafe_allow_html=True)
+st.markdown("<h1 class='title'>✨ Interactive Story Creator</h1>", unsafe_allow_html=True)
 st.markdown("Unleash your imagination. Fill in the blanks and see what kind of adventure you create! 🎨")
 
 # --- User Inputs ---
